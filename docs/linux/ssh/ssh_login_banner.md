@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/676374/how-to-disable-welcome-message-after-ssh-login
