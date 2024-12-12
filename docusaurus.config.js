@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Hroudokumentace',
+        title: 'notes',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -96,6 +96,18 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'cppTutorialSidebar',
+            position: 'left',
+            label: 'C++',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'typeScriptTutorialSidebar',
+            position: 'left',
+            label: 'TypeScript',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'angularTutorialSidebar',
             position: 'left',
             label: 'Angular',
@@ -104,7 +116,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'DocoSaurus',
+            label: 'ostatní',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'techTutorialSidebar',
+            position: 'left',
+            label: 'technologie',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
