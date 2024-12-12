@@ -1,6 +1,6 @@
 # Rust 🦀
 
-Tento Kurz je shrnutí knihy [Tento Kurz je shrnutí knihy](/books/The Rust Programming Language.pdf)
+Tento Kurz je shrnutí knihy [Tento Kurz je shrnutí knihy](/books/The%20Rust%20Programming%20Language.pdf)
 
 
 <img
