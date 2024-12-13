@@ -14,7 +14,7 @@ Klíčové vlastnosti TypeScriptu
 - [oficiální dokumentace](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [w3schools](https://www.w3schools.com/typescript/index.php)
 
-## React create command
+## Typescript a React
 
 :::info
 
@@ -36,9 +36,6 @@ V době tvorby poznámek aktuální verze **Reactu 19** nefunguje u ní typescri
         ```bash
         yarn create react-app my-app --template typescript
         ```
-
-:::
-
 :::
 
 ```bash title="vytvoření typescript reactu"
