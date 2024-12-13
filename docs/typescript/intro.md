@@ -25,6 +25,20 @@ V době tvorby poznámek aktuální verze **Reactu 19** nefunguje u ní typescri
     npm install react@18 react-dom@18
     ```
 
+    :::warning
+
+    Nejde ani změnění verze reactu, ale funguje packet manager `yarn`
+
+        ```bash title="instalace yarnu"
+        npm install --global yarn
+        ```
+
+        ```bash
+        yarn create react-app my-app --template typescript
+        ```
+
+:::
+
 :::
 
 ```bash title="vytvoření typescript reactu"
