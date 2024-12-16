@@ -90,6 +90,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'debianTutorialSidebar',
+            position: 'left',
+            label: 'Debian',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'rustTutorialSidebar',
             position: 'left',
             label: 'Rust',
