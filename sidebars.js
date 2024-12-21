@@ -48,6 +48,7 @@ const sidebars = {
       label: 'x. ricing',
       items: [
         {type: 'doc',label: 'desktop enviroment',id:"debian/ricing/enviroment"},
+        {type: 'doc',label: 'KDE Plasma',id:"debian/ricing/kde_plasma"}
       ],
     },
     {
